@@ -1,6 +1,7 @@
 # Password Generator Starter Code
-# Week 4 Challenge 3: Javascript: An application that an employee can use to generate a random password
+ Week 4 Challenge 3: Javascript: An application that an employee can use to generate a random password
 # BootcampChallenge 3
+   3/26/23-4/1/23
 
 
 ## Description
