@@ -1,15 +1,10 @@
 # Password Generator Starter Code
  Week 4 Challenge 3: Javascript: An application that an employee can use to generate a random password
-# BootcampChallenge 3
-   3/26/23-4/1/23
-
 
 ## Description
 AS AN employee with access to sensitive data
 I WANT to randomly generate a password that meets certain criteria
 SO THAT I can create a strong password that provides greater security
-
-
 
 ## Requirements 
 
@@ -27,8 +22,5 @@ SO THAT I can create a strong password that provides greater security
 #### Website Link and Screenshot
 <img width="883" alt="Screen Shot 2023-04-06 at 8.56.01 PM 1" src="https://user-images.githubusercontent.com/119103898/230538349-c3396cfb-eff5-45a4-ad0f-456b101cb68e.png">
 
-
-
-
-Live Link https://i-kare.github.io/Professional-Portfolio/
+Live Link https://i-kare.github.io/Password-Generator/
 
